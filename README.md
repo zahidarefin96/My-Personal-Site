@@ -1,3 +1,3 @@
 # My-Personal-Site
-My Personal Site written with HTML &amp; CSS
+Written with HTML & CSS
 https://zahidarefin96.github.io/My-Personal-Site/
